@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Apps and Jailbreak Tweaks development.
 - 🌱 I’m currently trying to learn about life, coding/programming, designing and music production.
 - 💞 I’m looking to collaborate and learn
-- 📫 How to reach me: I am on discord [@atpugvaraa](https://discord.com/users/852755623501758515) and on twitter [@atpugvaraa](https://twitter.com/atpugvaraa) and my [Gmail](atpugvaraa@gmail,com)
+- 📫 How to reach me: I am on discord [@atpugvaraa](https://discord.com/users/852755623501758515) and my [Gmail](atpugvaraa@gmail,com)
 
 <!---
 atpugvaraa/atpugvaraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
