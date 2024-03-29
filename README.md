@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/atpugvaraa)
 
-- 📫 How to reach me **[Gmail](atpugvaraa@gmail.com)**
+- 📫 How to reach me: **[Gmail](atpugvaraa@gmail.com)** and on [Discord](https://discord.gg/852755623501758515)
 
 - ⚡ Fun fact **I think i can learn quickly if i put my mind to it..**
 
