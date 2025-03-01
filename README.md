@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cisum](https://github.com/atpugvaraa/cisum) - my own music streaming app!
 
-- 🌱 I’m currently learning **Swift/SwiftUI, Flutter and Frontend Development.**
+- 🌱 I’m currently learning **Swift/SwiftUI**.
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/atpugvaraa)
 
