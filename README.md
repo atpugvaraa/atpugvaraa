@@ -6,7 +6,7 @@ import Foundation
 struct AboutMe {
     var name = "Aarav Gupta"
     var age = "18"
-    var langs = ["Hindi", "English", "German (elementary)", "French and Japanese (wannabe)"]
+    var langs = ["Hindi", "English", "German (not in touch)", "French and Japanese (wannabe)"]
     var progLangs = ["Swift/SwiftUI", "..."]
     var workingOn = ["cisum", "addictshun", "kodak"]
     var email = "atpugvaraa@gmail.com"
