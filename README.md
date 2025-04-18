@@ -4,13 +4,13 @@
 import Foundation
 
 struct AboutMe {
-    var name = "Aarav Gupta"
-    var age = "18"
-    var langs = ["Hindi", "English", "German (not in touch)", "French and Japanese (wannabe)"]
-    var progLangs = ["Swift/SwiftUI", "..."]
-    var workingOn = ["cisum", "addictshun", "kodak"]
-    var email = "atpugvaraa@gmail.com"
-    var socialHandle = "@atpugvaraa"
+    let name = "Aarav Gupta"
+    let age = "18"
+    var langs = ["Hindi", "English", "German (elementary)", "French and Japanese (wannabe)"]
+    var progLangs = ["Swift", "Java", "Flutter", "JavaScript",  "..."]
+    var workingOn = ["cisum", "addictshun", "Library Vacancy Tracker"]
+    let email = "atpugvaraa@gmail.com"
+    let socialHandle = "@atpugvaraa"
 }
 ```
 
