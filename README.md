@@ -7,8 +7,8 @@ struct AboutMe {
     let name = "Aarav Gupta"
     let age = "18"
     var langs = ["Hindi", "English", "German (elementary)", "French and Japanese (wannabe)"]
-    var progLangs = ["Swift", "Java", "Go", "JavaScript",  "..."]
-    var workingOn = ["cisum", "addictshun", "Librancy", "Smriti"]
+    var progLangs = ["Swift",  "..."]
+    var workingOn = ["cisum", "Librancy", "Smriti"]
     let email = "atpugvaraa@gmail.com"
     let socialHandle = "@atpugvaraa"
 }
