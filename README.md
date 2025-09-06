@@ -1,20 +1,23 @@
-<h1 align="center">Hi 👋, I'm Aarav Gupta (atpugvaraa) </h1>
-
 ```swift
 import Foundation
 
 struct AboutMe {
     let name = "Aarav Gupta"
-    let age = "18"
-    var langs = ["Hindi", "English", "German (elementary)", "French and Japanese (wannabe)"]
-    var progLangs = ["Swift", "Javascript", "Kotlin", "Python", "Golang",  "..."]
-    var workingOn = ["cisum", "Librancy", "Smriti"]
+    let alias = "atpugvaraa"
+    var age = 19
+    var langs = ["Hindi", "English", "German (elementary)", "French, Russian and Japanese (wannabe)"]
+    var progLangs = ["Swift", "TS/JS", "Kotlin", "Python", "Golang",  "..."]
+    var workingOn = ["CCS Merch Store", "Librancy", "cisum", "Smriti"]
     let email = "atpugvaraa@gmail.com"
     let socialHandle = "@atpugvaraa"
 }
 ```
 
 <!-- - 📫 How to reach me: **[Gmail](atpugvaraa@gmail.com)** and on [Discord](https://discord.gg/852755623501758515) -->
+<p>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atpugvaraa&show_icons=true&locale=en&layout=compact" alt="atpugvaraa" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=atpugvaraa&show_icons=true&locale=en" alt="atpugvaraa" />
+</p>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
@@ -24,11 +27,6 @@ struct AboutMe {
 <a href="https://medium.com/@atpugvaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atpugvaraa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1Rf1xWI0IzVjAT8yEar14g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UC1Rf1xWI0IzVjAT8yEar14g" height="30" width="40" /></a>
 <a href="https://discord.gg/852755623501758515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="852755623501758515" height="30" width="40" /></a>
-</p>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atpugvaraa&show_icons=true&locale=en&layout=compact" alt="atpugvaraa" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=atpugvaraa&show_icons=true&locale=en" alt="atpugvaraa" />
 </p>
 
 <!---
