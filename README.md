@@ -7,7 +7,8 @@ struct AboutMe {
     var age = 19
     var langs = ["Hindi", "English", "German (elementary)", "French, Russian and Japanese (wannabe)"]
     var progLangs = ["Swift", "TS/JS", "Kotlin", "Python", "Golang",  "..."]
-    var workingOn = ["CCS Merch Store", "Librancy", "cisum", "Smriti"]
+    var workingOn = ["CCS Merch Store", "..."]
+    var openSource = ["Ora Browser", "Librancy", "cisum", "Smriti"]
     let email = "atpugvaraa@gmail.com"
     let socialHandle = "@atpugvaraa"
 }
