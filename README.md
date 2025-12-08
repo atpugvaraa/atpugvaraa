@@ -6,9 +6,9 @@ struct AboutMe {
     let alias = "atpugvaraa"
     var age = 19
     var langs = ["Hindi", "English", "German (elementary)", "French, Russian and Japanese (wannabe)"]
-    var progLangs = ["Swift", "TS/JS", "Kotlin", "Python", "Golang",  "..."]
-    var workingOn = ["CCS Merch Store", "..."]
-    var openSource = ["Ora Browser", "Librancy", "cisum", "Smriti"]
+    var progLangs = ["Swift", "TS/JS", "Obj-C", "Java", "C#", "Kotlin", "Verilog",  "..."]
+    var workingOn = ["cisum", "YouTubeKit++", "swift.js", "SwiftUIKit", "..."]
+    var openSource = ["Ora Browser", "..."]
     let email = "atpugvaraa@gmail.com"
     let socialHandle = "@atpugvaraa"
 }
