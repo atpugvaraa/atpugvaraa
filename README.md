@@ -16,8 +16,8 @@ struct AboutMe {
 
 <!-- - 📫 How to reach me: **[Gmail](atpugvaraa@gmail.com)** and on [Discord](https://discord.gg/852755623501758515) -->
 <p>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atpugvaraa&show_icons=true&locale=en&layout=compact" alt="atpugvaraa" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=atpugvaraa&show_icons=true&locale=en" alt="atpugvaraa" />
+<img align="left" src="https://github-readme-stats-atpugvaraa.vercel.app/api/top-langs?username=atpugvaraa&show_icons=true&locale=en&layout=compact" alt="atpugvaraa" />
+<img align="center" src="https://github-readme-stats-atpugvaraa.vercel.app/api?username=atpugvaraa&show_icons=true&locale=en" alt="atpugvaraa" />
 </p>
 
 <h3 align="left">Contact me:</h3>
