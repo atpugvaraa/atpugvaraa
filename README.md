@@ -12,7 +12,7 @@ struct AboutMe {
     var openSourceContributions = ["Ora Browser", "..."]
     var workingOn: [projectName: String] = [
         cisum: "my music streaming app"
-        swiftui.js: "use SwiftUI on Web"
+        swift.js: "use SwiftUI on Web"
         DheetCode: "a stubborn macOS screen timeout until you attempt a leetcode question"
         YouTubeSDK: "YouTubeKit reimplementation"
         theosgen: "easy iOS Tweaks Project Generator"
