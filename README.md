@@ -8,17 +8,23 @@ struct AboutMe {
     var age = 19
 
     // this matters i guess
-    var progLangs = ["Swift", "TS", "Go", "Java/Kotlin", "C#", "Rust", "Zig", "Obj-C", "..."]
+    var progLangs = ["Swift", "TS", "Go", "Java/Kotlin", "Python", "C#", "Rust", "Zig", "Obj-C", "..."]
     var openSourceContributions = ["Ora Browser", "..."]
     var workingOn: [projectName: String] = [
-        cisum: "my music streaming app"
-        swift.js: "use SwiftUI on Web"
-        DheetCode: "a stubborn macOS screen timeout until you attempt a leetcode question"
-        YouTubeSDK: "YouTubeKit reimplementation"
-        theosgen: "easy iOS Tweaks Project Generator"
-        Smriti: "notion-alternative using github as sync"
+        // Swift
+        cisum: "music streaming app - implements YouTube/JioSaavn/iTunes/LRCLIB APIs"
+        swift.js: "use SwiftUI on Web - transpiles SwiftUI to valid Next.js"
+        YouTubeSDK: "Swift SDK for YouTube's private API, known as InnerTube."
+        Smriti: "notion-alternative using SwiftData/GitHub's API to sync files"
+
+        // TypeScript
         Thapar-IKS: "Website for my uni's Indian Knowledge System Center"
-        addictshun: "screen blocker to stop social media addiction"
+
+        // Zig
+        ttyl: "terminal emulator + browser + raycast"
+        
+        // Rust
+        theosgen: "easy iOS Tweaks Project Generator"
     ]
 
     // reachout
@@ -30,11 +36,9 @@ struct AboutMe {
 
 ```
 
-<!-- - 📫 How to reach me: **[Gmail](atpugvaraa@gmail.com)** and on [Discord](https://discord.gg/852755623501758515) -->
-<!-- <p>
-<img align="left" src="https://github-readme-stats-atpugvaraa.vercel.app/api/top-langs?username=atpugvaraa&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=5&hide=dart,cmake,css,html,tcl,shell&text_color=0aaddd" alt="atpugvaraa" />
-<img align="center" src="https://github-readme-stats-atpugvaraa.vercel.app/api?username=atpugvaraa&show_icons=true&locale=en&theme=dark&text_color=0aaddd" alt="atpugvaraa" />
-</p> -->
+<!--    // Swift - Pending
+        DheetCode: "a stubborn macOS screen timeout until you attempt a leetcode question"
+        addictshun: "screen blocker to stop social media addiction" -->
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
