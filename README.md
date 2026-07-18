@@ -4,29 +4,30 @@
 
 <pre><code><span style="color:#FF7B72">import</span> <span style="color:#D2A8FF">Foundation</span>
 
-<span style="color:#FF7B72">struct</span> <span style="color:#D2A8FF">AaravGupta</span>: <span style="color:#D2A8FF">Person</span>, <span style="color:#D2A8FF">iOSDeveloper</span>, <span style="color:#D2A8FF">SecurityResearcher</span> {
+<span style="color:#FF7B72">struct</span> <span style="color:#D2A8FF">AaravGupta</span>: <span style="color:#D2A8FF">Him</span>, <span style="color:#D2A8FF">iOSDeveloper</span>, <span style="color:#D2A8FF">SecurityResearcher</span> {
     <span style="color:#8B949E">// personal details</span>
     <span style="color:#FF7B72">var</span> age = <span style="color:#79C0FF">19</span>
     <span style="color:#FF7B72">let</span> email = <span style="color:#A5D6FF">"atpugvaraa@gmail.com"</span>
     <span style="color:#FF7B72">let</span> socialHandle = <span style="color:#A5D6FF">"@atpugvaraa"</span>
     <!-- <span style="color:#FF7B72">let</span> alias = <span style="color:#A5D6FF">"atpugvaraa"</span> -->
     <span style="color:#8B949E">// this matters i guess</span>
-    <span style="color:#FF7B72">var</span> progLangs = [<span style="color:#A5D6FF">"Swift"</span>, <span style="color:#A5D6FF">"Obj-C"</span>, <span style="color:#A5D6FF">"TS"</span>, <span style="color:#A5D6FF">"Go"</span>, <span style="color:#A5D6FF">"C#"</span>, <span style="color:#A5D6FF">"Java/Kotlin"</span>, <span style="color:#A5D6FF">"Rust"</span>, <span style="color:#A5D6FF">"Zig"</span>, <span style="color:#A5D6FF">"..."</span>]
+    <span style="color:#FF7B72">var</span> progLangs = [<span style="color:#A5D6FF">"Swift"</span>, <span style="color:#A5D6FF">"Obj-C"</span>, <span style="color:#A5D6FF">"JavaScript/TypeScript"</span>, <span style="color:#A5D6FF">"Go"</span>, <span style="color:#A5D6FF">"C#"</span>, <span style="color:#A5D6FF">"Java/Kotlin"</span>, <span style="color:#A5D6FF">"Rust"</span>, <span style="color:#A5D6FF">"Zig"</span>, <span style="color:#A5D6FF">"..."</span>]
 
     <span style="color:#FF7B72">var</span> workingOn: [<span style="color:#D2A8FF">projectName</span>: <span style="color:#D2A8FF">String</span>] = [
         <span style="color:#8B949E">// iOS</span>
-        <a href="https://cisum.studio">cisum</a>: <span style="color:#A5D6FF">"music streaming — YouTube/Spotify/iTunes/Tidal reverse-engineered internal APIs"</span>,
-        <a href="https://github.com/atpugvaraa/Bookmarkd">Bookmarkd</a>: <span style="color:#A5D6FF">"answers the question — where to find and read books (even for free)"</span>,
-        Venn: <span style="color:#A5D6FF">"organize your tasks using venn diagrams"</span>,
+        <a href="https://cisum.studio">cisum</a>: <span style="color:#A5D6FF">"music streaming using YouTube/Spotify/iTunes/Tidal reverse-engineered internal APIs"</span>,
+        <a href="https://github.com/atpugvaraa/Bookmarkd">Bookmarkd</a>: <span style="color:#A5D6FF">"answers the question -> where to find and read books? (even for free)"</span>,
+        <a href="https://github.com/atpugvaraa/Venn">Venn</a>: <span style="color:#A5D6FF">"organize your tasks/ideas using venn diagrams"</span>,
         <a href="https://github.com/atpugvaraa/paperwait">paperwait</a>: <span style="color:#A5D6FF">"use your iDevices as a drawing tablet"</span>,
-        addictshun: <span style="color:#A5D6FF">"stop doom-scrolling gang"</span>,
-        Project Arise: <span style="color:#A5D6FF">"solo-leveling themed gamified habit/fitness app"</span>,
+        <a href="https://github.com/atpugvaraa/addictshun">addictshun</a>: <span style="color:#A5D6FF">"stop doom-scrolling gang"</span>,
+        <a href="https://github.com/atpugvaraa/Project-Arise">Project: Arise</a>: <span style="color:#A5D6FF">"solo-leveling themed gamified habit/fitness app"</span>,
         <a href="https://github.com/atpugvaraa/ringo">ringo</a>: <span style="color:#A5D6FF">"your actual personal assistant"</span>,
 
         <span style="color:#8B949E">// Work</span>
+        <a href="https://apps.apple.com/in/app/team-yudhistir/id6781696325">Saturnalia 26'</a>: <span style="color:#A5D6FF">"app for my college's flagship techno-cultural fest"</span>,
+        <a href="https://apps.apple.com/in/app/helix26-thapar-tech-fest/id6761726150">Helix 26'</a>: <span style="color:#A5D6FF">"react-native app for my annual college tech fest"</span>,
+        <a href="https://apps.apple.com/in/app/zyber-social-networking/id6762185716">Zyber: Social Networking</a>: "Scroll to connect with people that match your interests!"
         HealthPod: <span style="color:#A5D6FF">"from scratch to App Store for my internship"</span>,
-        Helix 26': <span style="color:#A5D6FF">"react-native app for my annual college tech fest"</span>,
-        Saturnalia 26': <span style="color:#A5D6FF">"app for my college's flagship techno-cultural fest"</span>,
 
         <span style="color:#8B949E">// macOS & cli</span>
         <a href="https://github.com/atpugvaraa/quickly">quickly</a>: <span style="color:#A5D6FF">"a package manager for multi-platform Swift"</span>,
