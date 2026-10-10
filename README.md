@@ -6,7 +6,7 @@
 
 <span style="color:#FF7B72">struct</span> <span style="color:#D2A8FF">AaravGupta</span>: <span style="color:#D2A8FF">Him</span>, <span style="color:#D2A8FF">iOSDeveloper</span>, <span style="color:#D2A8FF">SecurityResearcher</span> {
     <span style="color:#8B949E">// personal details</span>
-    <span style="color:#FF7B72">var</span> age = <span style="color:#79C0FF">19</span>
+    <span style="color:#FF7B72">var</span> age = <span style="color:#79C0FF">20</span>
     <span style="color:#FF7B72">let</span> email = <span style="color:#A5D6FF">"atpugvaraa@gmail.com"</span>
     <span style="color:#FF7B72">let</span> socialHandle = <span style="color:#A5D6FF">"@atpugvaraa"</span>
     <!-- <span style="color:#FF7B72">let</span> alias = <span style="color:#A5D6FF">"atpugvaraa"</span> -->
@@ -24,9 +24,9 @@
         <a href="https://github.com/atpugvaraa/ringo">ringo</a>: <span style="color:#A5D6FF">"your actual personal assistant"</span>,
 
         <span style="color:#8B949E">// Work</span>
+        <a href="https://apps.apple.com/in/app/zyber-social-networking/id6762185716">Zyber: Social Networking</a>: "Scroll to connect with people that match your interests!"
         <a href="https://apps.apple.com/in/app/team-yudhistir/id6781696325">Saturnalia 26'</a>: <span style="color:#A5D6FF">"app for my college's flagship techno-cultural fest"</span>,
         <a href="https://apps.apple.com/in/app/helix26-thapar-tech-fest/id6761726150">Helix 26'</a>: <span style="color:#A5D6FF">"react-native app for my annual college tech fest"</span>,
-        <a href="https://apps.apple.com/in/app/zyber-social-networking/id6762185716">Zyber: Social Networking</a>: "Scroll to connect with people that match your interests!"
         HealthPod: <span style="color:#A5D6FF">"from scratch to App Store for my internship"</span>,
 
         <span style="color:#8B949E">// macOS & cli</span>
@@ -53,6 +53,7 @@
 
         <span style="color:#8B949E">// Rust</span>
         <a href="https://github.com/atpugvaraa/oxytocin">oxytocin</a>: <span style="color:#A5D6FF">"a love bomb for the jailbreak community from me &lt;3"</span>,
+        <a href="https://github.com/atpugvaraa/spool">Spool</a>: <span style="color:#A5D6FF">"Student-built local-first Agentic Design Environment by <a href="https://instagram.com/gdg.tiet">GDG TIET</a>"</span>
     ]
 
     <span style="color:#FF7B72">var</span> contributions = [<a href="https://github.com/the-ora/browser">Ora Browser</a>, <span style="color:#A5D6FF">"..."</span>]
