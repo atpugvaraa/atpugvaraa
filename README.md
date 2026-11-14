@@ -1,6 +1,6 @@
 <h1 align="center">Aarav Gupta</h1>
 <p align="center">
-  iOS developer · Apple platform internals &amp; security · ECE @ Thapar Institute '28
+  Software Engineer · Apple platforms, systems &amp; mobile security
   <br/>
   <a href="https://www.linkedin.com/in/atpugvaraa">LinkedIn</a> ·
   <a href="https://x.com/atpugvaraa">X</a> ·
