@@ -1,76 +1,77 @@
 <h1 align="center">Aarav Gupta</h1>
-<table width="100%">
-<tr><td width="100%">
-
-<pre><code><span style="color:#FF7B72">import</span> <span style="color:#D2A8FF">Foundation</span>
-
-<span style="color:#FF7B72">struct</span> <span style="color:#D2A8FF">AaravGupta</span>: <span style="color:#D2A8FF">Him</span>, <span style="color:#D2A8FF">iOSDeveloper</span>, <span style="color:#D2A8FF">SecurityResearcher</span> {
-    <span style="color:#8B949E">// personal details</span>
-    <span style="color:#FF7B72">var</span> age = <span style="color:#79C0FF">20</span>
-    <span style="color:#FF7B72">let</span> email = <span style="color:#A5D6FF">"atpugvaraa@gmail.com"</span>
-    <span style="color:#FF7B72">let</span> socialHandle = <span style="color:#A5D6FF">"@atpugvaraa"</span>
-    <!-- <span style="color:#FF7B72">let</span> alias = <span style="color:#A5D6FF">"atpugvaraa"</span> -->
-    <span style="color:#8B949E">// this matters i guess</span>
-    <span style="color:#FF7B72">var</span> progLangs = [<span style="color:#A5D6FF">"Swift"</span>, <span style="color:#A5D6FF">"Obj-C"</span>, <span style="color:#A5D6FF">"JavaScript/TypeScript"</span>, <span style="color:#A5D6FF">"Go"</span>, <span style="color:#A5D6FF">"C#"</span>, <span style="color:#A5D6FF">"Java/Kotlin"</span>, <span style="color:#A5D6FF">"Rust"</span>, <span style="color:#A5D6FF">"Zig"</span>, <span style="color:#A5D6FF">"..."</span>]
-
-    <span style="color:#FF7B72">var</span> workingOn: [<span style="color:#D2A8FF">projectName</span>: <span style="color:#D2A8FF">String</span>] = [
-        <span style="color:#8B949E">// iOS</span>
-        <a href="https://cisum.studio">cisum</a>: <span style="color:#A5D6FF">"music streaming using YouTube/Spotify/iTunes/Tidal reverse-engineered internal APIs"</span>,
-        <a href="https://github.com/atpugvaraa/Bookmarkd">Bookmarkd</a>: <span style="color:#A5D6FF">"answers the question -> where to find and read books? (even for free)"</span>,
-        <a href="https://github.com/atpugvaraa/Venn">Venn</a>: <span style="color:#A5D6FF">"organize your tasks/ideas using venn diagrams"</span>,
-        <a href="https://github.com/atpugvaraa/paperwait">paperwait</a>: <span style="color:#A5D6FF">"use your iDevices as a drawing tablet"</span>,
-        <a href="https://github.com/atpugvaraa/addictshun">addictshun</a>: <span style="color:#A5D6FF">"stop doom-scrolling gang"</span>,
-        <a href="https://github.com/atpugvaraa/Project-Arise">Project: Arise</a>: <span style="color:#A5D6FF">"solo-leveling themed gamified habit/fitness app"</span>,
-        <a href="https://github.com/atpugvaraa/ringo">ringo</a>: <span style="color:#A5D6FF">"your actual personal assistant"</span>,
-
-        <span style="color:#8B949E">// Work</span>
-        <a href="https://apps.apple.com/in/app/zyber-social-networking/id6762185716">Zyber: Social Networking</a>: "Scroll to connect with people that match your interests!"
-        <a href="https://apps.apple.com/in/app/team-yudhistir/id6781696325">Saturnalia 26'</a>: <span style="color:#A5D6FF">"app for my college's flagship techno-cultural fest"</span>,
-        <a href="https://apps.apple.com/in/app/helix26-thapar-tech-fest/id6761726150">Helix 26'</a>: <span style="color:#A5D6FF">"react-native app for my annual college tech fest"</span>,
-        HealthPod: <span style="color:#A5D6FF">"from scratch to App Store for my internship"</span>,
-
-        <span style="color:#8B949E">// macOS & cli</span>
-        <a href="https://github.com/atpugvaraa/quickly">quickly</a>: <span style="color:#A5D6FF">"a package manager for multi-platform Swift"</span>,
-        <a href="https://github.com/atpugvaraa/DheetCode">DheetCode</a>: <span style="color:#A5D6FF">"a stubborn screen timeout until you solve a LeetCode"</span>,
-
-        <span style="color:#8B949E">// weird SwiftUI obsession</span>
-        <a href="https://github.com/atpugvaraa/swift.js">swift.js</a>: <span style="color:#A5D6FF">"use SwiftUI on Web — transpiles SwiftUI to Next.js"</span>,
-        <a href="https://github.com/atpugvaraa/QuickUI">QuickUI</a>: <span style="color:#A5D6FF">"SwiftUI for multi-platform using Raylib"</span>,
-
-        <span style="color:#8B949E">// iOS security research</span>
-        <a href="https://github.com/atpugvaraa/heavykatana">heavykatana</a>: <span style="color:#A5D6FF">"understanding the DarkSword WebKit JS-chain by @zeroxjf"</span>,
-        <a href="https://github.com/atpugvaraa/shinobu">shinobu</a>: <span style="color:#A5D6FF">"iOS 26.1 PoC on my iPhone 14 — by @GenericCoding & @zeroxjf"</span>,
-        <a href="https://github.com/atpugvaraa/cortisol">cortisol</a>: <span style="color:#A5D6FF">"my Lara fork to play with DarkSword on iOS 18.6"</span>,
-
-        <span style="color:#8B949E">// packages</span>
-        <a href="https://github.com/atpugvaraa/YouTubeSDK">YouTubeSDK</a>: <span style="color:#A5D6FF">"Swift SDK for YouTube's private InnerTube API"</span>,
-        <a href="https://github.com/atpugvaraa/NodeJS.swift">NodeJS.swift</a>: <span style="color:#A5D6FF">"run a node server on iPhone via nodejs-mobile"</span>,
-        <a href="https://github.com/atpugvaraa/Aesthetics">Aesthetics</a>: <span style="color:#A5D6FF">"UI components I made and use in my apps"</span>,
-        <a href="https://github.com/atpugvaraa/AppRouter">AppRouter</a>: <span style="color:#A5D6FF">"the best possible navigation router with a good-ish API"</span>,
-
-        <span style="color:#8B949E">// TypeScript</span>
-        <a href="https://iks.thapar.edu">Thapar-IKS</a>: <span style="color:#A5D6FF">"site for my uni's Indian Knowledge System Center"</span>,
-
-        <span style="color:#8B949E">// Rust</span>
-        <a href="https://github.com/atpugvaraa/oxytocin">oxytocin</a>: <span style="color:#A5D6FF">"a love bomb for the jailbreak community from me &lt;3"</span>,
-        <a href="https://github.com/atpugvaraa/spool">Spool</a>: <span style="color:#A5D6FF">"Student-built local-first Agentic Design Environment by <a href="https://instagram.com/gdg.tiet">GDG TIET</a>"</span>
-    ]
-
-    <span style="color:#FF7B72">var</span> contributions = [<a href="https://github.com/the-ora/browser">Ora Browser</a>, <span style="color:#A5D6FF">"..."</span>]
-    <span style="color:#FF7B72">var</span> langs = [<span style="color:#A5D6FF">"Hindi"</span>, <span style="color:#A5D6FF">"English"</span>, <span style="color:#A5D6FF">"German (elementary)"</span>, <span style="color:#A5D6FF">"French, Russian, Japanese (wannabe)"</span>]
-}
-</code></pre>
-
-</td></tr>
-</table>
-
-<h3 align="center">Contact me</h3>
 <p align="center">
-  <a href="https://x.com/atpugvaraa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atpugvaraa" height="30" width="40" /></a>
-  <a href="https://discord.gg/852755623501758515" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+  iOS developer · Apple platform internals &amp; security · ECE @ Thapar Institute '28
+  <br/>
+  <a href="https://www.linkedin.com/in/atpugvaraa">LinkedIn</a> ·
+  <a href="https://x.com/atpugvaraa">X</a> ·
+  <a href="mailto:atpugvaraa@gmail.com">Email</a> ·
+  <a href="https://cisum.studio">cisum.studio</a>
 </p>
 
-<!---
-atpugvaraa/atpugvaraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```swift
+struct AaravGupta: Him, iOSDeveloper, SecurityResearcher {
+    let daily    = ["Swift", "SwiftUI", "UIKit", "AppKit", "Objective-C"]
+    let shipped  = ["TypeScript / React Native", "Kotlin", "Rust"]
+    let lowLevel = ["AArch64 / ARM assembly", "Mach-O", "WebKit / JavaScriptCore"]
+    let learning = ["C/C++", "XNU internals"]
+
+    let now  = "iOS Security Research Intern + App Dev Head @ GDG TIET"
+    let goal = "build great things for Apple platforms, and understand how they break"
+}
+```
+
+### 🚢 Shipped
+
+| | |
+|---|---|
+| **[cisum](https://github.com/cisumapp/cisum)** | Music client for iOS, macOS and Android, built on my own Swift SDKs. 300+ users; tap-to-audio down from 1.2s+ to under 500 ms cold (~200 ms cached). [TestFlight](https://testflight.apple.com/join/xDWsYvE1) |
+| **[Saturnalia](https://apps.apple.com/in/app/saturnalia-26/id6781696325)** | Official app for Thapar's techno-cultural fest. Published both the 2025 and 2026 editions from my developer account: 1,800+ iOS downloads in 2025, and 277 for 2026 before the fest has even started. Built the 2026 native prototype in Swift/KMP. |
+| **[Zyber](https://apps.apple.com/in/app/zyber-social-networking/id6762185716)** | Internship: ran phased App Store releases 2.0.1 → 2.0.6 and TestFlight, plus iOS bug and UI fixes. |
+| **[Helix 26'](https://apps.apple.com/in/app/helix26-thapar-tech-fest/id6761726150)** | Thapar's annual tech fest app. I took over a broken React Native codebase, got it working and published it to the App Store. |
+| **[paperwait](https://github.com/atpugvaraa/paperwait)** | Objective-C: turns an iPad into a drawing tablet / trackpad for a Mac over MultipeerConnectivity. |
+
+### 🔧 Building
+
+| | |
+|---|---|
+| **[Spool](https://github.com/atpugvaraa/spool)** | Open-source, local-first design editor in Rust/GPUI. I lead the 30-student team building it at GDG TIET. |
+| **[hosmas](https://github.com/atpugvaraa/hosmas)** | One native SwiftUI client for the campus food and services apps (Fretbox, Hungerbox, SmartQ). |
+| **[swan](https://github.com/atpugvaraa/swan)** | `swift android run`: Swift-on-Android tooling with no Java, Kotlin or Gradle project. |
+| **[swift.js](https://github.com/atpugvaraa/swift.js)** | Write SwiftUI, ship to the web: a SwiftUI → Next.js transpiler. It emits TSX checked by `tsc`, and the compiler pipeline is snapshot-tested. |
+| **HealthPod** | Internship (iOS lead): built the iOS app from scratch, owned the architecture, and ran it through a 20-tester TestFlight beta. Pre-launch. |
+
+### 🔬 Security research
+
+I reproduce and take apart public iOS research to learn it properly. All credit goes to the original authors.
+
+- **[heavykatana](https://github.com/atpugvaraa/heavykatana)**: notes on the DarkSword WebKit JS chain by [@zeroxjf](https://github.com/zeroxjf)
+- **[shinobu](https://github.com/atpugvaraa/shinobu)**: running the iOS 26.1 PoC by [@GenericCoding](https://github.com/GenericCoding) & [@zeroxjf](https://github.com/zeroxjf) on my own iPhone 14
+- **[cortisol](https://github.com/atpugvaraa/cortisol)**: Lara fork to experiment with DarkSword on iOS 18.6
+- **[pois0nSword](https://github.com/GenericCoding/pois0nSword)** by @GenericCoding: I contributed the JSON offset loader and iPhone 14 / iOS 26.1 offsets ([PR #8](https://github.com/GenericCoding/pois0nSword/pull/8))
+- **[YouTubeSDK](https://github.com/atpugvaraa/YouTubeSDK)**: Swift SDK for YouTube's InnerTube API (interoperability research)
+
+### 🤝 Open source
+
+- **[Ora Browser](https://github.com/the-ora/browser/pulls?q=is%3Apr+author%3Aatpugvaraa+is%3Amerged)** (2.2k★ macOS browser): 7 merged PRs, including a macOS 14 `WindowDragGesture` backport, sandboxed extension imports, a favicon-loading crash fix, and sidebar / traffic-light work.
+
+<details>
+<summary>More side projects</summary>
+
+[ARMd](https://github.com/atpugvaraa/ARMd) (Keil ARM7 assembly → native AArch64 on Apple Silicon, via Homebrew) ·
+[forbidden-pasta](https://github.com/atpugvaraa/forbidden-pasta) (blocks pasting into AI chats, so I write the code myself) ·
+[addictshun](https://github.com/atpugvaraa/addictshun) (anti-doomscrolling) ·
+[DheetCode](https://github.com/atpugvaraa/DheetCode) (screen lock until you solve a LeetCode) ·
+[QuickUI](https://github.com/atpugvaraa/QuickUI) (SwiftUI-style API on Raylib) ·
+[quickly](https://github.com/atpugvaraa/quickly) (Swift package manager, being rebuilt) ·
+[AppRouter](https://github.com/atpugvaraa/AppRouter) ·
+[Aesthetics](https://github.com/atpugvaraa/Aesthetics) ·
+[NodeJS.swift](https://github.com/atpugvaraa/NodeJS.swift) ·
+[Bookmarkd](https://github.com/atpugvaraa/Bookmarkd) ·
+[Venn](https://github.com/atpugvaraa/Venn) ·
+[Project: Arise](https://github.com/atpugvaraa/Project-Arise) ·
+[ringo](https://github.com/atpugvaraa/ringo) ·
+[oxytocin](https://github.com/atpugvaraa/oxytocin)
+
+</details>
+
+<sub>Hindi · English · German (elementary) · French, Russian, Japanese (wannabe)</sub>
