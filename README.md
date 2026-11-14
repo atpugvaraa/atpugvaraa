@@ -37,6 +37,9 @@ struct AaravGupta: Him, iOSDeveloper, SecurityResearcher {
 | **[Spool](https://github.com/atpugvaraa/spool)** | Open-source, local-first design editor in Rust/GPUI. I lead the 30-student team building it at GDG TIET. |
 | **[hosmas](https://github.com/atpugvaraa/hosmas)** | One native SwiftUI client for the campus food and services apps (Fretbox, Hungerbox, SmartQ). |
 | **[swan](https://github.com/atpugvaraa/swan)** | `swift android run`: Swift-on-Android tooling with no Java, Kotlin or Gradle project. |
+| **[We-Ate](https://github.com/atpugvaraa/We-Ate)** | My MacBook as a V8: the Force Touch trackpad is the throttle, the real cooling fan revs through AppleSMC, and the engine sound is synthesized live from crank angle. |
+| **[desarray](https://github.com/atpugvaraa/desarray)** | Native macOS menu-bar x-ray: drag a frame over any app or website to see its element boxes, spacing and sizes, live. |
+| **[portless](https://github.com/atpugvaraa/portless)** | Plain C, no dependencies: finds every local dev server and gives it a name, `localhost:3000` → `my-app.localhost`. |
 | **[swift.js](https://github.com/atpugvaraa/swift.js)** | Write SwiftUI, ship to the web: a SwiftUI → Next.js transpiler. It emits TSX checked by `tsc`, and the compiler pipeline is snapshot-tested. |
 | **HealthPod** | Internship (iOS lead): built the iOS app from scratch, owned the architecture, and ran it through a 20-tester TestFlight beta. Pre-launch. |
 
@@ -58,6 +61,7 @@ I reproduce and take apart public iOS research to learn it properly. All credit 
 <summary>More side projects</summary>
 
 [ARMd](https://github.com/atpugvaraa/ARMd) (Keil ARM7 assembly → native AArch64 on Apple Silicon, via Homebrew) ·
+[skills](https://github.com/atpugvaraa/skills) (my agent skills for Claude Code and Codex) ·
 [forbidden-pasta](https://github.com/atpugvaraa/forbidden-pasta) (blocks pasting into AI chats, so I write the code myself) ·
 [addictshun](https://github.com/atpugvaraa/addictshun) (anti-doomscrolling) ·
 [DheetCode](https://github.com/atpugvaraa/DheetCode) (screen lock until you solve a LeetCode) ·
