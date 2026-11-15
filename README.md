@@ -27,7 +27,7 @@ struct AaravGupta: Him, iOSDeveloper, SecurityResearcher {
 | **[cisum](https://github.com/cisumapp/cisum)** | Music client for iOS, macOS and Android, built on my own Swift SDKs. 300+ users; tap-to-audio down from 1.2s+ to under 500 ms cold (~200 ms cached). [TestFlight](https://testflight.apple.com/join/xDWsYvE1) |
 | **[Saturnalia](https://apps.apple.com/in/app/saturnalia-26/id6781696325)** | Official app for Thapar's techno-cultural fest. Published both the 2025 and 2026 editions from my developer account: 1,800+ iOS downloads in 2025, and 277 for 2026 before the fest has even started. Built the 2026 native prototype in Swift/KMP. |
 | **[Zyber](https://apps.apple.com/in/app/zyber-social-networking/id6762185716)** | Internship: ran phased App Store releases 2.0.1 → 2.0.6 and TestFlight, plus iOS bug and UI fixes. |
-| **[Helix 26'](https://apps.apple.com/in/app/helix26-thapar-tech-fest/id6761726150)** | Thapar's annual tech fest app. I took over a broken React Native codebase, got it working and published it to the App Store. |
+| **Helix 26'** | Thapar's annual tech fest app (since replaced by Saturnalia 26 on the App Store). I took over a broken React Native codebase, got it working and published it to the App Store. |
 | **[paperwait](https://github.com/atpugvaraa/paperwait)** | Objective-C: turns an iPad into a drawing tablet / trackpad for a Mac over MultipeerConnectivity. |
 
 ### 🔧 Building
