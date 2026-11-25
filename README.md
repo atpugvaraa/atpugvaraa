@@ -25,7 +25,7 @@ struct AaravGupta: Him, iOSDeveloper, SecurityResearcher {
 | | |
 |---|---|
 | **[cisum](https://github.com/cisumapp/cisum)** | Music client for iOS, macOS and Android, built on my own Swift SDKs. 300+ users; tap-to-audio down from 1.2s+ to under 500 ms cold (~200 ms cached). [TestFlight](https://testflight.apple.com/join/xDWsYvE1) |
-| **[Saturnalia](https://apps.apple.com/in/app/saturnalia-26/id6781696325)** | Official app for Thapar's techno-cultural fest. Published both the 2025 and 2026 editions from my developer account: 1,800+ iOS downloads in 2025, and 277 for 2026 before the fest has even started. Built the 2026 native prototype in Swift/KMP. |
+| **[Saturnalia](https://apps.apple.com/in/app/saturnalia-26/id6781696325)** | Official app for Thapar's techno-cultural fest. Published both the 2025 and 2026 editions from my developer account: 1,800+ iOS downloads in 2025, and 2,600+ in 2026. Built the 2026 native prototype in Swift/KMP. |
 | **[Zyber](https://apps.apple.com/in/app/zyber-social-networking/id6762185716)** | Internship: ran phased App Store releases 2.0.1 → 2.0.6 and TestFlight, plus iOS bug and UI fixes. |
 | **Helix 26'** | Thapar's annual tech fest app (since replaced by Saturnalia 26 on the App Store). I took over a broken React Native codebase, got it working and published it to the App Store. |
 | **[paperwait](https://github.com/atpugvaraa/paperwait)** | Objective-C: turns an iPad into a drawing tablet / trackpad for a Mac over MultipeerConnectivity. |
@@ -35,7 +35,7 @@ struct AaravGupta: Him, iOSDeveloper, SecurityResearcher {
 | | |
 |---|---|
 | **[Spool](https://github.com/atpugvaraa/spool)** | Open-source, local-first design editor in Rust/GPUI. I lead the 30-student team building it at GDG TIET. |
-| **[hosmas](https://github.com/atpugvaraa/hosmas)** | One native SwiftUI client for the campus food and services apps (Fretbox, Hungerbox, SmartQ). |
+| **[hosmas](https://github.com/atpugvaraa/hosmas)** | One native SwiftUI client for my hostel and canteen apps (FretBox, HungerBox), with caching, on a pure-Swift package that also compiles for Android. |
 | **[swan](https://github.com/atpugvaraa/swan)** | `swift android run`: Swift-on-Android tooling with no Java, Kotlin or Gradle project. |
 | **[We-Ate](https://github.com/atpugvaraa/We-Ate)** | My MacBook as a V8: the Force Touch trackpad is the throttle, the real cooling fan revs through AppleSMC, and the engine sound is synthesized live from crank angle. |
 | **[desarray](https://github.com/atpugvaraa/desarray)** | Native macOS menu-bar x-ray: drag a frame over any app or website to see its element boxes, spacing and sizes, live. |
